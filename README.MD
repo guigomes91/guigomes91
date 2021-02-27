@@ -5,3 +5,10 @@
 
 ### About me
 I'm a {database, java} developer.
+
+## Technologies
+
+These are some the technologies and tools that i work with:
+[![Java Badge]
+
+
