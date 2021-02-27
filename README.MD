@@ -6,7 +6,7 @@
 ### About me
 I'm a {database, java} developer at VR Software and I've been working in tech since 2014. I'm from Brazil.
 
-O que sabemos é uma gota; o que ignoramos é um oceano...
+What we know is a drop, what we ignore is an ocean...
 
 ## 🚀 Technologies
 
