@@ -16,5 +16,6 @@ These are some the technologies and tools that i work with:
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-022?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 [![Data Studio Badge](https://img.shields.io/badge/-DataStudio-020?style=flat-square&logo=DataStudio&logoColor=white&link=https://datastudio.google.com/overview)](https://datastudio.google.com/overview)
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VSCode-024?style=flat-square&logo=VSCode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+[![Python Badge](https://img.shields.io/badge/-VSCode-423?style=flat-square&logo=VSCode&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 
 
