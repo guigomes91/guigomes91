@@ -12,6 +12,6 @@ O que sabemos é uma gota; o que ignoramos é um oceano...
 
 These are some the technologies and tools that i work with:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)
-[![Java Badge](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt-BR/)](https://www.java.com/pt-BR/)
+[![Java Badge](https://img.shields.io/badge/-Java-023?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt-BR/)](https://www.java.com/pt-BR/)
 
 
