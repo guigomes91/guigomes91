@@ -11,6 +11,7 @@ What we know is a drop, what we ignore is an ocean...
 ## 🚀 Technologies
 
 These are some the technologies and tools that i work with:
+[!Angular Badge](https://img.shields.io/badge/-Angular-211?style=flat-square&logo=Angular&logoColor=red&link=https://angular.io/)](https://angular.io/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)
 [![Java Badge](https://img.shields.io/badge/-Java-023?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt-BR/)](https://www.java.com/pt-BR/)
 [![Python Badge](https://img.shields.io/badge/-Python-852?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
