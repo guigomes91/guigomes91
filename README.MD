@@ -20,4 +20,8 @@ These are some the technologies and tools that i work with:
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-022?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VSCode-024?style=flat-square&logo=VSCode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 
+Mainly language work with.
+![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aztoh&psig=AOvVaw1SEACHUOHp6Dz7KQW1mgdT&ust=1677434083717000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjIuYefsf0CFQAAAAAdAAAAABAE)
+
+
 
