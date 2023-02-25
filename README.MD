@@ -21,7 +21,7 @@ These are some the technologies and tools that i work with:
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VSCode-024?style=flat-square&logo=VSCode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 
 Mainly language that i work:
-![Java]([https://w7.pngwing.com/pngs/486/685/png-transparent-java-hd-logo.png](https://image.pngaaa.com/879/5376879-middle.png))
+![Java](https://www.svgrepo.com/download/30521/java.svg)
 
 
 
