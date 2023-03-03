@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-gomes-21031991/)](https://www.linkedin.com/in/guilherme-gomes-21031991/)
 
 ### About me
-I'm a {database, java} developer at VR Software and I've been working in tech since 2014. I'm from Brazil.
+I'm a Java developer at Senior Systems and I've been working in tech since 2014. I'm from Brazil.
 
 What we know is a drop, what we ignore is an ocean...
 
