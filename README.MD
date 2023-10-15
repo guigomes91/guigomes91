@@ -27,5 +27,7 @@ Mainly language that i work:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Certified Cloud Practitioner
 
+![AWS CLOUD PRACTITIONER](https://www.credly.com/badges/4df58382-027f-493a-90cd-428b1d839f6d/public_url)
+
 
 
