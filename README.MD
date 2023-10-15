@@ -14,7 +14,7 @@ These are some the technologies and tools that i work with:
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white))(https://www.java.com/pt-BR/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 [![Python Badge](https://img.shields.io/badge/-Python-852?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 [![Data Studio Badge](https://img.shields.io/badge/-DataStudio-020?style=flat-square&logo=DataStudio&logoColor=white&link=https://datastudio.google.com/overview)](https://datastudio.google.com/overview)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
