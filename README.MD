@@ -11,17 +11,20 @@ What we know is a drop, what we ignore is an ocean...
 ## 🚀 Technologies
 
 These are some the technologies and tools that i work with:
-[![Spring Badge](https://img.shields.io/badge/-Spring-000?style=flat-square&logo=Spring&logoColor=green&link=https://spring.io/)](https://spring.io/)
-[![Angular Badge](https://img.shields.io/badge/-Angular-211?style=flat-square&logo=Angular&logoColor=red&link=https://angular.io/)](https://angular.io/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)
-[![Java Badge](https://img.shields.io/badge/-Java-023?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt-BR/)](https://www.java.com/pt-BR/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white))(https://www.java.com/pt-BR/)
 [![Python Badge](https://img.shields.io/badge/-Python-852?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 [![Data Studio Badge](https://img.shields.io/badge/-DataStudio-020?style=flat-square&logo=DataStudio&logoColor=white&link=https://datastudio.google.com/overview)](https://datastudio.google.com/overview)
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-022?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VSCode-024?style=flat-square&logo=VSCode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+[![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 Mainly language that i work:
-![Java](https://www.flaticon.com/free-icons/java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Certified Cloud Practitioner
 
 
 
