@@ -25,7 +25,7 @@ These are some the technologies and tools that i work with:
 Mainly language that i work:
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [AWS CLOUD PRACTITIONER](https://www.credly.com/badges/4df58382-027f-493a-90cd-428b1d839f6d/public_url)
+My certification in ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [Cloud Practitioner](https://www.credly.com/badges/4df58382-027f-493a-90cd-428b1d839f6d/public_url)
 
 
 
