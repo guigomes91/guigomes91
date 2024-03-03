@@ -5,6 +5,7 @@
 
 ### About me
 I'm a Backend Software Engineer Senior at Agi bank and I've been working in tech since 2014. I'm from Brazil.
+It's been 10 years in IT.
 
 What we know is a drop, what we ignore is an ocean...
 
