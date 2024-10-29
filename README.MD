@@ -11,7 +11,8 @@ What we know is a drop, what we ignore is an ocean...
 
 ## 🚀 Technologies
 
-These are some the technologies and tools that i work with:
+These are some the technologies and tools that i work with
+
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
