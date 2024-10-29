@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-gomes-21031991/)](https://www.linkedin.com/in/guilherme-gomes-21031991/)
 
 ### About me
-I'm a Backend Software Senior at C&A and I've been working in tech since 2014. I'm from Brazil.
+I'm a Senior Java Developer at C&A and I've been working in tech since 2014. I'm from Brazil.
 It's been 10 years in IT.
 
 What we know is a drop, what we ignore is an ocean...
