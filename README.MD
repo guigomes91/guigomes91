@@ -13,7 +13,7 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 
 - 🏢 Currently leading backend teams at **C&A** (since 2014 in tech)
 - ☁️ AWS Certified **Cloud Practitioner** - [view badge](https://www.credly.com/badges/4df58382-027f-493a-90cd-428b1d839f6d/public_url)
-- 🚀 Founder of [**getcaramelo.dev**](https://getcaramelo.dev) — check it out!
+- 🚀 Founder of [**getcaramelo.dev**](https://getcaramelo.dev) - check it out!
 - ☕ Main language: **Java**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Tech+Lead+%7C+Backend+Engineer;11%2B+years+in+IT;Java+%7C+Spring+%7C+Quarkus;Founder+of+getcaramelo.dev)](https://git.io/typing-svg)
