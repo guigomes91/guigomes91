@@ -16,6 +16,8 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 - 🚀 Founder of [**getcaramelo.dev**](https://getcaramelo.dev) — check it out!
 - ☕ Main language: **Java**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Tech+Lead+%7C+Backend+Engineer;11%2B+years+in+IT;Java+%7C+Spring+%7C+Quarkus;Founder+of+getcaramelo.dev)](https://git.io/typing-svg)
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -61,10 +63,11 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 
 ---
 
-## 📊 GitHub Stats
-
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigomes91&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigomes91&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guigomes91/guigomes91/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guigomes91/guigomes91/blob/output/github-snake.svg" />
+  <img alt="snake" src="https://github.com/guigomes91/guigomes91/blob/output/github-snake.svg" />
+</picture>
 
 ---
 
