@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-gomes-21031991/)](https://www.linkedin.com/in/guilherme-gomes-21031991/)
 
 ### About me
-I'm a Senior Java Developer at C&A and I've been working in tech since 2014. I'm from Brazil.
-It's been 10 years in IT.
+I'm a Tech Lead | Backend Software Engineer at C&A and I've been working in tech since 2014. I'm from Brazil.
+It's been 11 years in IT.
 
 What we know is a drop, what we ignore is an ocean...
 
@@ -44,6 +44,5 @@ Mainly language that i work:
 
 My certification in [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/) [Cloud Practitioner](https://www.credly.com/badges/4df58382-027f-493a-90cd-428b1d839f6d/public_url)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigomes91&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigomes91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigomes91)](https://github.com/anuraghazra/github-readme-stats)
 
