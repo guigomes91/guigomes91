@@ -12,7 +12,7 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 > *"What we know is a drop, what we ignore is an ocean."*
 
 - 🏢 Currently leading backend teams at **C&A** (since 2014 in tech)
-- ☁️ AWS Certified **Cloud Practitioner** — [view badge](https://www.credly.com/badges/4df58382-027f-493a-90cd-428b1d839f6d/public_url)
+- ☁️ AWS Certified **Cloud Practitioner** - [view badge](https://www.credly.com/badges/4df58382-027f-493a-90cd-428b1d839f6d/public_url)
 - 🚀 Founder of [**getcaramelo.dev**](https://getcaramelo.dev) — check it out!
 - ☕ Main language: **Java**
 
@@ -43,6 +43,7 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/)
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 [![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)](https://prometheus.io/)
@@ -59,11 +60,15 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 ## 🌐 My Project
 
 ### [getcaramelo.dev](https://getcaramelo.dev)
-> A project built with passion — check it out and let me know what you think!
+> A project built with passion - check it out and let me know what you think!
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=guigomes91&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guigomes91/guigomes91/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guigomes91/guigomes91/blob/output/github-snake.svg" />
+  <img alt="snake" src="https://github.com/guigomes91/guigomes91/blob/output/github-snake.svg" />
+</picture>
 
 ---
 
