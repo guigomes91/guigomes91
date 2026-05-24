@@ -63,11 +63,7 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guigomes91/guigomes91/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guigomes91/guigomes91/blob/output/github-snake.svg" />
-  <img alt="snake" src="https://github.com/guigomes91/guigomes91/blob/output/github-snake.svg" />
-</picture>
+[![trophy](https://github-profile-trophy.vercel.app/?username=guigomes91&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
