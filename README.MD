@@ -59,6 +59,30 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 
 ---
 
+## 🤖 AI Tools
+
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://notebooklm.google.com)
+
+---
+
+## 🧠 AI Projects
+
+### 📄 PDF Advise — RAG Application
+
+> Aplicação de **Retrieval-Augmented Generation (RAG)** que permite conversar com documentos PDF usando IA.
+
+| | Repositório | Stack |
+|---|---|---|
+| ⚙️ **Backend** | [pdf-advise](https://github.com/guigomes91/pdf-advise) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
+| 🖥️ **Frontend** | [pdf-advise-frontend](https://github.com/guigomes91/pdf-advise-frontend) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+
+**Principais conceitos:** RAG · Vector Database · LLM Integration · Document Parsing
+
+---
+
 ## 🌐 My Project
 
 ### [getcaramelo.dev](https://getcaramelo.dev)
