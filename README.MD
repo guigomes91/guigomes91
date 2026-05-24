@@ -70,7 +70,7 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 
 ## 🧠 AI Projects
 
-### 📄 PDF Advise — RAG Application
+### 📄 PDF Advise - RAG Application
 
 > Aplicação de **Retrieval-Augmented Generation (RAG)** que permite conversar com documentos PDF usando IA.
 
@@ -83,7 +83,7 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** b
 
 ---
 
-## 🌐 My Project
+## 🌐 My Technical Blog
 
 ### [getcaramelo.dev](https://getcaramelo.dev)
 > A project built with passion - check it out and let me know what you think!
