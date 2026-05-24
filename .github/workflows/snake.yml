@@ -22,9 +22,15 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git checkout --orphan output 2>/dev/null || git checkout output
+          git rm -rf . --quiet || true
+          cp dist/github-snake.svg ./github-snake.svg
+          cp dist/github-snake-dark.svg ./github-snake-dark.svg
+          git add github-snake.svg github-snake-dark.svg
+          git commit -m "Update snake animation" || true
+          git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
