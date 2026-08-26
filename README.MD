@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **11+ years** building software that scales. Based in Brazil 🇧🇷.
+I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **12+ years** building software that scales. Based in Brazil 🇧🇷.
 
 > *"What we know is a drop, what we ignore is an ocean."*
 
