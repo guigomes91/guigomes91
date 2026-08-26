@@ -16,7 +16,7 @@ I'm a **Tech Lead | Backend Software Engineer** at **C&A**, with **12+ years** b
 - 🚀 Founder of [**getcaramelo.dev**](https://getcaramelo.dev) - check it out!
 - ☕ Main language: **Java**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Tech+Lead+%7C+Backend+Engineer;11%2B+years+in+IT;Java+%7C+Spring+%7C+Quarkus;Founder+of+getcaramelo.dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Tech+Lead+%7C+Backend+Engineer;12%2B+years+in+IT;Java+%7C+Spring+%7C+Quarkus;Founder+of+getcaramelo.dev)](https://git.io/typing-svg)
 
 ---
 
